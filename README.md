@@ -1,4 +1,4 @@
-# Restaurant-Order-Analysis. SQL
+# SQL. Restaurant-Order-Analysis
 
 
 ## Table of Contents
