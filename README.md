@@ -66,7 +66,7 @@ Key EDA steps:
 
 
 ## Data Analysis
-Advanced SQL queries were used to:
+Advanced SQL queries were used to answer the following questions:
 ```
 -- 1. Join datasets/tables (Merged the menu_items table and the order_details tables into one).
 
